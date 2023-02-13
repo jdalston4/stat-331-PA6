@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: "Unknown"
+author: "Gabby, Jacob, Samantha, Kai"
 format: html
 self-contained: true
 editor: source
